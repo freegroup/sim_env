@@ -1,6 +1,30 @@
 # SimEnv
 
-A blind-accessible simulation environment — like a Tamagotchi, but for an entire world.
+**SimEnv** (Simulation Environment) is a mobile app designed for **blind and visually impaired people**
+that lets them experience, navigate, and shape a living virtual world — entirely through sound.
+
+## Vision
+
+Inspired by Tamagotchi, SimEnv gives the player custody of a world they cannot see but can
+*hear*. The soundscape is the only interface that matters. The world lives and breathes:
+people laugh or fall silent, birds appear or vanish, factories roar or go quiet — all depending
+on how the player invests their resources.
+
+The core question the game asks is: **What kind of world do you want to hear?**
+
+A player who invests in nature reserves and parks will eventually hear seagulls, a flowing river,
+children laughing in the park, and a forest full of life. A player who builds factories and chemical
+plants will hear industrial noise, traffic, and a world with no animals left. Most players will end
+up somewhere in between — and the layered soundscape reflects exactly that balance.
+
+The world is alive on its own too: every 30 seconds a new day passes, populations grow or shrink,
+animals return or disappear, and the budget refills based on what was built. The player can move
+between five zones (north, south, east, west, center) and invest locally — each zone develops
+independently and contributes to the overall world sound.
+
+**Accessibility is not a feature — it is the foundation.** Every screen is fully navigable
+by voice via the built-in TTS Narrator, all buttons have semantic labels, and the app is designed
+to be used without ever looking at the screen.
 
 ## Concept
 
